@@ -2,7 +2,7 @@
 /*
 Plugin Name: MyPW Authentication
 Plugin URI: http://www.mypw.com/
-Author: MyPW / Lars Nilsen
+Author: MyPW
 Version: 0.21 
 */
 
